@@ -1,0 +1,8 @@
+{
+  "name": "vk-daily-winner-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "vk-io": "^4.9.0"
+  }
+}
